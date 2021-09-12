@@ -1,6 +1,8 @@
 # Flappy-Papaj
 Platform: Android
+
 Flappy Bird inspired game
+
 The game features some famous quotes of Papaj!
 
 ![Screenshot_20210912-204944](https://user-images.githubusercontent.com/70964650/132999319-c14aae2f-232b-4172-b9b1-23692ceaff8f.jpg)
